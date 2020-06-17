@@ -1,1 +1,1 @@
-# agendamento_typescript_knex_sqlite
+# Aplicativo de Agendamento de Eventos em Salas com Typescript, Knex e SQLite
