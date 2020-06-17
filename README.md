@@ -1,0 +1,1 @@
+# agendamento_typescript_knex_sqlite
